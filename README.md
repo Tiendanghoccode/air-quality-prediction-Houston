@@ -1,10 +1,10 @@
 # air-quality-prediction-Houston
 Machine learning project to predict Houston air quality 
 
-This project predicts Houston air quality 24–48 hours ahead using machine learning models.
+In this project, we conduct a systematic comparison of 10 models for Houston AQI prediction. All models use a time-based 80/20 train-test split to prevent temporal leakage. We evaluate both regression metrics (MAE, RMSE, R2, MAPE) and AQI category classification (Good, Moderate, Unhealthy for Sensitive Groups, Unhealthy).
 
-## Data Sources
-- EPA AQS
-- Open Meteo weather API
-
-## Models
+## Contributors
+Abdelrahman Darmousa
+Sadhana Bastola
+Tabriz Sadredinov
+Tien Hoang
